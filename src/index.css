@@ -51,6 +51,11 @@
   cursor: pointer;
 }
 
+.complete-btn{
+  color:green;
+  cursor: pointer;
+}
+
 tbody{
   margin-top: 25px;
 }
